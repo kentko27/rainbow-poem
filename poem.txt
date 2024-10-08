@@ -7,3 +7,5 @@ Indigo
 Violet
 
 :>>>
+
+This is black and white. are they part of it?
